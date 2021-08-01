@@ -14,10 +14,10 @@ The data is ingested into a neo4j database.
 
 This spring boot app helps to access the data from the following endpoints:
 
-/products
-/suppliers
-/categories
-/suppliers/id
+- /products
+- /suppliers
+- /categories
+- /suppliers/id
 
 This project can we further scaled with customer cypher queries using @Query annotation and other CRUD operations however the main goal of this github repository is to demonstrate how the integration of spring and neo4j.
 
