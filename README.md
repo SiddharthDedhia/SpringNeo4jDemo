@@ -6,7 +6,7 @@ SDN provides a lot of out of the box features like Spring Data JPA and reduces t
 
 The dataset used here is a small part of the north wind dataset:
 
-![alt text](northwind_data.png)
+![alt text](northwind_data.JPG)
 
 We can map these table into the graph database where each table represents a node.
 
